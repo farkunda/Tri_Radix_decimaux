@@ -1,0 +1,3 @@
+C:/Users/arian/OneDrive/Bureau/School/TP Archi/PEP 8 - TP2/2024A_TCH017_TP2_Equipe02/Tp2_archi_en_c/cmake-build-debug/CMakeFiles/Tp2_archi_en_c.dir
+C:/Users/arian/OneDrive/Bureau/School/TP Archi/PEP 8 - TP2/2024A_TCH017_TP2_Equipe02/Tp2_archi_en_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arian/OneDrive/Bureau/School/TP Archi/PEP 8 - TP2/2024A_TCH017_TP2_Equipe02/Tp2_archi_en_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
